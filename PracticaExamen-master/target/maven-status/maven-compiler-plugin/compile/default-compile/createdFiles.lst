@@ -1,0 +1,10 @@
+com\verdureria\repository\TiendasRepository.class
+com\verdureria\service\TiendasService.class
+com\verdureria\service\VerdurasService.class
+com\verdureria\controller\VerdurasController.class
+com\verdureria\repository\VerdurasRepository.class
+com\verdureria\VerdureriaApplication.class
+com\verdureria\service\ITiendasService.class
+com\verdureria\entity\Verduras.class
+com\verdureria\service\IVerdurasService.class
+com\verdureria\entity\Tiendas.class
